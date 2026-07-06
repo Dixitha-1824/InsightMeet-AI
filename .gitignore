@@ -1,0 +1,14 @@
+.venv/
+.env
+
+__pycache__/
+*.pyc
+
+downloads/
+vector_db/
+
+.streamlit/
+
+*.db
+*.faiss
+*.index

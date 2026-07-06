@@ -1,0 +1,59 @@
+
+# LLM & LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+langchain-mistralai
+
+# Vector Database
+chromadb
+
+# Embeddings
+sentence-transformers
+huggingface-hub
+
+# Whisper Speech-to-Text
+openai-whisper
+torch
+torchaudio
+
+# Translation
+deep-translator
+
+# YouTube Audio Download
+yt-dlp
+
+# Audio Processing
+ffmpeg-python
+pydub
+
+# Streamlit UI
+streamlit
+
+# PDF Export
+reportlab
+
+# Text Processing
+tiktoken
+
+# Environment Variables
+python-dotenv
+
+# Utilities
+numpy
+pandas
+
+# HTTP Requests
+requests
+
+# Optional Tokenizer
+transformers
+
+# File Handling
+pypdf
+
+# Progress Bars
+tqdm
