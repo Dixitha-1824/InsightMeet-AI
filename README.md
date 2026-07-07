@@ -1,4 +1,4 @@
-# 🎥 AI Meeting Assistant
+# 🎥InsightMeet AI – Intelligent Meeting Analysis RAG Assistan
 
 An AI-powered Meeting Assistant that processes YouTube videos and local media files to generate accurate transcriptions, concise summaries, and intelligent question-answering using Retrieval-Augmented Generation (RAG). The application leverages OpenAI Whisper for speech-to-text conversion and Mistral AI for natural language understanding, providing an interactive interface built with Streamlit.
 
